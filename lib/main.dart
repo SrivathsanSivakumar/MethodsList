@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:macos_ui/macos_ui.dart';
-import 'UI.dart';
+import 'main_screen.dart';
 
 void main() {
   runApp(const MethodsList());
@@ -21,7 +21,7 @@ class MethodsList extends StatelessWidget {
       debugShowCheckedModeBanner: false,
 
       // Run the app logic from UIScreen class from UI.dart
-      home: const DragDropScreen() 
+      home: const MainScreen() 
     );
   }
 }

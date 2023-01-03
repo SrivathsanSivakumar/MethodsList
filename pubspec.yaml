@@ -37,7 +37,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   macos_ui: ^1.7.5
-  desktop_drop: ^0.3.3
+  desktop_drop: ^0.4.0
   cross_file: ^0.3.3+2
   reflectable: ^4.0.0
   scrollable_positioned_list: ^0.3.5
